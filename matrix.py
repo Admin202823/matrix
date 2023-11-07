@@ -1,7 +1,7 @@
 import random
 import pygame
 
-# change "1366" and "768" by tour screen dimension
+# change "1366" and "768" by your screen dimension
 PANEL_width = 1366
 PANEL_highly = 768
 FONT_PX = 15
